@@ -1,0 +1,6 @@
+[submodule "clothery-frontend"]
+	path = clothery-frontend
+	url = https://github.com/Bfilahi/clothery-frontend.git
+[submodule "clothery-backend"]
+	path = clothery-backend
+	url = https://github.com/Bfilahi/clothery-backend.git
